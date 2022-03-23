@@ -1,0 +1,56 @@
+  
+header{
+    width: 100%;    
+    height: 150px;
+    background: url('logo.jpg')center;
+    background-repeat: no-repeat;
+    font-size: 2em;
+    text-align: center;
+    color: black;
+}
+#principal{
+    width: 100%;
+    height: 100px;
+    background: url('principal.jpg')100% 100%;
+    background-repeat: no-repeat;
+}
+#topCat{
+    width: 100%;
+    height: 70px;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+#categoria1{
+    width: 33%;
+    height: 340px;
+    background: url('taxa.jpeg') no-repeat;
+    text-align: center;
+    background-size: cover;
+}
+#categoria2{
+    width: 34%;
+    height: 340px;
+    margin-left:33%;
+    margin-top:-340px;
+    background: url('investimentos.jpeg') no-repeat;
+    text-align: center;
+    background-size: cover;
+}
+#categoria3{
+    width: 33%;
+    height: 340px;
+    margin-left: 67%;
+    margin-top: -340px;
+    background: url('planejamento.jpeg') no-repeat;
+    text-align: center;
+    background-size: cover; 
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 5px;
+}

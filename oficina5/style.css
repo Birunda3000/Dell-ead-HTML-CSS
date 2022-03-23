@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{
+    background-color: lightcoral;
+}
+main{
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 5px, rgb(194, 135, 194);
+}

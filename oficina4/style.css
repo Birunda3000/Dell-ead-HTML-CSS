@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+body{
+background-color: aquamarine;
+
+}
+h1{
+width: 24px;
+background-color: rgb(119, 172, 119);
+height: 70%;
+color: white;
+}
+nav{
+    color: lightgreen;
+}
+p{
+background-color: white;
+}
+h2{
+    color: darkblue;
+}
+footer{
+    color: gray;
+}
